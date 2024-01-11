@@ -1,0 +1,4 @@
+Today i learned about git and git-hub.
+One thing to know that they are obviously different.
+Git is used to make a version.
+The other one is used to save the version on cloud-system.
